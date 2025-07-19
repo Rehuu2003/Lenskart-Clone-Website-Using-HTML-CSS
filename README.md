@@ -13,7 +13,8 @@ Key Features:
    - Media queries to ensure the website is mobile-friendly.
    - Adjustments to the layout for various screen sizes, maintaining usability across devices.
 
-4. Footer:
+4. Footer:<img width="1896" height="836" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/718595f9-f8f0-42c9-97d2-78fe43e0bf02" />
+
    - Links to important sections like customer service, terms and conditions, and social media icons.
    - A consistent design that complements the overall theme of the website.
 
